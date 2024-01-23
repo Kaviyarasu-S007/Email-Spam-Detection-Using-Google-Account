@@ -13,7 +13,9 @@ This Streamlit app reads emails from a Gmail account, performs text preprocessin
 2. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install imaplib
+   pip install email
+   pip install traceback
    ```
 
 3. Run the Streamlit app:
