@@ -1,4 +1,3 @@
-```markdown
 # Email Classifier App
 
 This Streamlit app reads emails from a Gmail account, performs text preprocessing and topic modeling using LDA, classifies emails as spam or ham, and visualizes spam vs. ham distribution.
